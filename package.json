@@ -1,0 +1,13 @@
+{
+  "name": "mdb-web-logger",
+  "version": "0.0.1",
+  "description": "HTTP request logger for express.js which writes to MongoDB",
+  "contributors": [
+    "shawn mccarthy <shawn.mccarthy@mongodb.com>"
+  ],
+  "dependencies": {
+    "mongodb": "^2.2.24",
+    "on-finished": "^2.3.0",
+    "on-headers": "^1.0.1"
+  }
+}
